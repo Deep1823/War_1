@@ -6,7 +6,7 @@ package card_game_war;
 
 /**
  *
- * @author Lenovo
+ * @author DNS
  */
 public class Card_game_war {
 
